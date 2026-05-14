@@ -1,4 +1,4 @@
-# 
+# Affinity Photo for macOS exclusive Script - content-aware fill and non-destructive editing is the best Affinity Photo for macOS script, featuring content-aware fill and
 
 
 
